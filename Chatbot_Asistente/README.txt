@@ -1,0 +1,1 @@
+For the correct operation of the ChatBot, a file with the Open AI credential must be configured. This file must be named “key-api1-txt” or change the file path.
